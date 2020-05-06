@@ -3,7 +3,7 @@
 Unity 엔진으로 개발한 3D Panman game 
 
 
-<div>
+
 ![image](https://user-images.githubusercontent.com/26848932/81144418-fa05ff80-8fae-11ea-8c34-03e3e40a079f.png)
 
 ![image](https://user-images.githubusercontent.com/26848932/81144424-fd00f000-8fae-11ea-80de-2ad962556a67.png)
@@ -18,4 +18,3 @@ Unity 엔진으로 개발한 3D Panman game
 
 ![image](https://user-images.githubusercontent.com/26848932/81144471-1609a100-8faf-11ea-9758-55fb8fce166a.png)
 
-</div>
