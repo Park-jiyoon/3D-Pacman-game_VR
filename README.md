@@ -3,8 +3,8 @@
 Unity 엔진으로 개발한 3D Panman game 
 
 
-
-![image](https://user-images.githubusercontent.com/26848932/81144418-fa05ff80-8fae-11ea-8c34-03e3e40a079f.png)
+---------------------------------------------------------------------------------------------------------
+![image](https://user-images.githubusercontent.com/26848932/81144418-fa05ff80-8fae-11ea-8c34-03e3e40a079f.png=100x20)
 미로 속에서 유령을 피해 코인을 획득하는 게임. 
 유령을 만나면 Game Over.
 
