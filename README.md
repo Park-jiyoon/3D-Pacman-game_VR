@@ -1,12 +1,12 @@
 # 3D-Pacman-game! ![팩맨ㅇㅎ](https://user-images.githubusercontent.com/26848932/81146776-e741f980-8fb3-11ea-8697-7f3dbbfa4a48.png)
-## *3D Pacman game developed by Unity engine / Google Cardboard*
+## *3D Pacman game developed by Unity engine / Google Cardboard* 
+if don't know google cardboard [about cardboard](https://ko.wikipedia.org/wiki/%EA%B5%AC%EA%B8%80_%EC%B9%B4%EB%93%9C%EB%B3%B4%EB%93%9C)
 
 ---------------------------------------------------------------------------------------------------------
 ![가상현실](https://user-images.githubusercontent.com/26848932/81145974-5d456100-8fb2-11ea-800f-5afac60a6cef.png)
 
 
 * first-person vision-based control
-
 * A game of obtaining coins to avoid ghosts in a maze.
 
 * Game Over when you meet a ghost
