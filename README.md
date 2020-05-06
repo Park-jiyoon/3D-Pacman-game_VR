@@ -24,11 +24,11 @@ if don't know google cardboard [about cardboard](https://ko.wikipedia.org/wiki/%
 
 ![가상현실3](https://user-images.githubusercontent.com/26848932/81146190-be6d3480-8fb2-11ea-9390-2823747c5ace.png)
 
-* Double the score in 10 seconds when you get a blue coin item
+* when you get a **blue coin** item, Double the score in 10 seconds 
 
-* When a red coin item is acquired, a ghost stops for 5 seconds.
+* When you get a **red coin** item, a ghost stops for 5 seconds.
 
-* Play sound when coin is acquired
+* when you get a coin, play sounds
 
 * When approaching ghosts, play sounds
 
