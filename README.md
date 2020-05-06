@@ -10,17 +10,8 @@ Unity 엔진으로 개발한 3D Pacman game
 미로 속에서 유령을 피해 코인을 획득하는 게임. 
 유령을 만나면 Game Over.
 
-
-
-![image](https://user-images.githubusercontent.com/26848932/81144424-fd00f000-8fae-11ea-80de-2ad962556a67.png)
-
-![image](https://user-images.githubusercontent.com/26848932/81144438-0427fe00-8faf-11ea-8c41-893f67bbc4db.png)
-
-![image](https://user-images.githubusercontent.com/26848932/81144377-dfcc2180-8fae-11ea-9e1c-f84a60d460f0.png)
-
-![image](https://user-images.githubusercontent.com/26848932/81144455-0ee29300-8faf-11ea-8819-7cc694219236.png)
-![image](https://user-images.githubusercontent.com/26848932/81144462-10ac5680-8faf-11ea-984c-42fc92641f50.png)
-![image](https://user-images.githubusercontent.com/26848932/81144467-13a74700-8faf-11ea-86e1-60b01df24f94.png)
-
-![image](https://user-images.githubusercontent.com/26848932/81144471-1609a100-8faf-11ea-9758-55fb8fce166a.png)
+![가상현실1](https://user-images.githubusercontent.com/26848932/81146186-bd3c0780-8fb2-11ea-87a0-528a57413628.png)
+![가상현실2](https://user-images.githubusercontent.com/26848932/81146189-bdd49e00-8fb2-11ea-9611-ce1ee3275d5b.png)
+![가상현실3](https://user-images.githubusercontent.com/26848932/81146190-be6d3480-8fb2-11ea-9390-2823747c5ace.png)
+![가상현실4](https://user-images.githubusercontent.com/26848932/81146191-be6d3480-8fb2-11ea-87de-3ea1e7b596aa.png)
 
