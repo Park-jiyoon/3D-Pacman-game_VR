@@ -4,7 +4,9 @@ Unity 엔진으로 개발한 3D Pacman game
 
 
 ---------------------------------------------------------------------------------------------------------
-![image](https://user-images.githubusercontent.com/26848932/81144418-fa05ff80-8fae-11ea-8c34-03e3e40a079f.png){: width="100" height="100"}
+![image](https://user-images.githubusercontent.com/26848932/81144418-fa05ff80-8fae-11ea-8c34-03e3e40a079f.png){: width="200" height="100"}
+
+
 미로 속에서 유령을 피해 코인을 획득하는 게임. 
 유령을 만나면 Game Over.
 
