@@ -1,5 +1,5 @@
 # 3D-Pacman-game! ![팩맨ㅇㅎ](https://user-images.githubusercontent.com/26848932/81146776-e741f980-8fb3-11ea-8697-7f3dbbfa4a48.png)
-## 3D Pacman game developed by Unity engine / Google Cardboard
+## *3D Pacman game developed by Unity engine / Google Cardboard*
 
 ---------------------------------------------------------------------------------------------------------
 ![가상현실](https://user-images.githubusercontent.com/26848932/81145974-5d456100-8fb2-11ea-800f-5afac60a6cef.png)
