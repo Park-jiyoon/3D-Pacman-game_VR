@@ -1,14 +1,11 @@
 # 3D-Pacman-game
-
-##Unity 엔진으로 개발한 3D Pacman game 
-
+Unity 엔진으로 개발한 3D Pacman game 
 
 ---------------------------------------------------------------------------------------------------------
 ![가상현실](https://user-images.githubusercontent.com/26848932/81145974-5d456100-8fb2-11ea-800f-5afac60a6cef.png)
 
-
-미로 속에서 유령을 피해 코인을 획득하는 게임. 
-유령을 만나면 Game Over.
+A game of obtaining coins to avoid ghosts in a maze.
+Game Over when you meet a gho
 
 ![가상현실1](https://user-images.githubusercontent.com/26848932/81146186-bd3c0780-8fb2-11ea-87a0-528a57413628.png)
 
