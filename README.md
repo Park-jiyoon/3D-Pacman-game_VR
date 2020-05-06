@@ -1,10 +1,10 @@
 # 3D-Pacman-game
 
-Unity 엔진으로 개발한 3D Panman game 
+Unity 엔진으로 개발한 3D Pacman game 
 
 
 ---------------------------------------------------------------------------------------------------------
-<img src:"https://user-images.githubusercontent.com/26848932/81144418-fa05ff80-8fae-11ea-8c34-03e3e40a079f.png" width="700" height="370">
+![image](https://user-images.githubusercontent.com/26848932/81144418-fa05ff80-8fae-11ea-8c34-03e3e40a079f.png)
 미로 속에서 유령을 피해 코인을 획득하는 게임. 
 유령을 만나면 Game Over.
 
