@@ -4,11 +4,15 @@
 ---------------------------------------------------------------------------------------------------------
 ![가상현실](https://user-images.githubusercontent.com/26848932/81145974-5d456100-8fb2-11ea-800f-5afac60a6cef.png)
 
+
+first-person vision-based control
+
 A game of obtaining coins to avoid ghosts in a maze.
-Game Over when you meet a gho
+
+Game Over when you meet a ghost
 
 ![가상현실1](https://user-images.githubusercontent.com/26848932/81146186-bd3c0780-8fb2-11ea-87a0-528a57413628.png)
-
+Example of a Google Cardboard
 
 ![가상현실2](https://user-images.githubusercontent.com/26848932/81146189-bdd49e00-8fb2-11ea-9611-ce1ee3275d5b.png)
 
