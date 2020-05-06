@@ -1,4 +1,4 @@
-# 3D-Pacman-game![image]   (https://user-images.githubusercontent.com/26848932/81146597-94684200-8fb3-11ea-8fc0-6c9167ec86d3.png)
+# 3D-Pacman-game! ![image](https://user-images.githubusercontent.com/26848932/81146597-94684200-8fb3-11ea-8fc0-6c9167ec86d3.png)
 Unity 엔진으로 개발한 3D Pacman game 
 
 ---------------------------------------------------------------------------------------------------------
