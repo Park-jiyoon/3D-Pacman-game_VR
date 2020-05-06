@@ -10,7 +10,7 @@ Unity 엔진으로 개발한 3D Pacman game
 
 
 
-![image](https://user-images.githubusercontent.com/26848932/81144424-fd00f000-8fae-11ea-80de-2ad962556a67.png)
+![image](https://user-images.githubusercontent.com/26848932/81144424-fd00f000-8fae-11ea-80de-2ad962556a67.png){: width="" height=""}
 
 ![image](https://user-images.githubusercontent.com/26848932/81144438-0427fe00-8faf-11ea-8c41-893f67bbc4db.png)
 
